@@ -75,4 +75,4 @@ npm start
 - [@Richa Sinha](https://www.github.com/)
 
 
-### [Click here]() to have a look at the poster of the project.
+### [Click here](youtube-transcript-summarizer-web-browser-extension/icon.png) to have a look at the poster of the project.
