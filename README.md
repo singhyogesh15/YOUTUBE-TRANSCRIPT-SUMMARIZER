@@ -29,37 +29,40 @@ Please make sure to update tests as appropriate.
 
 ## Installation
 
-1. Clone the repository in your local machine.
+1. Clone the repository in your local machine:-
 ```
-git clone 
+git clone https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER.git
 ```
 
-2. To run the API, you need to set up a **Virtual Environment**. Go into *youtube-transcript-summarizer-api* folder, open command prompt and paste the following command.
+2. To run the API, first set up a **Virtual Environment**. In order to do so, go into *youtube-transcript-summarizer-api* folder, open command prompt and paste the following command:-
 ```
 python -m venv venv
 ```
 
-3. Now that you got a Virtual Environment created, it's time to install all the **dependencies**. Use the following command.   
+3. After successfully setting up the Virtual Environment, it's time to install the **Dependencies**. Use the following command:-  
 ```
 pip install -r requirements.txt
 ```
 
-4. Now it's time to run the **API**.
+4. Now it's time to run the **API**:-
 ```
 python app.py
 ```
 
-5. Now the API is set up to provide the response. Its time to start with **frontend**.
+5. Now the API is set up to provide the response. It's time to start with **frontend**. 
+
+
+6. Go into *youtube-transcript-summarizer-frontend* folder by opening a new terminal and paste the following command:-
 ```
-cd ..
 cd youtube-transcript-summarizer-frontend
 ```
-6. Install all the required **node modules**.
+
+7. Install all the required **node modules** with:-
 ```
 npm install
 ```
 
-7. You are all set to run the frontend.
+8. Now you are all set to run the frontend.
 ```
 npm start
 ```
@@ -70,6 +73,3 @@ npm start
 - [@Yogesh Kumar Singh](https://www.github.com/Zen-o-Droid)
 - [@Shruti Singh](https://www.github.com/)
 - [@Richa Sinha](https://www.github.com/)
-
-
-### [Click here](youtube-transcript-summarizer-web-browser-extension/icon.png) to have a look at the poster of the project.
