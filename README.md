@@ -71,5 +71,5 @@ npm start
 ## Authors
 
 - [@Yogesh Kumar Singh](https://www.github.com/Zen-o-Droid)
-- [@Shruti Singh](https://www.github.com/)
-- [@Richa Sinha](https://www.github.com/)
+- [@Shruti Singh](https://www.github.com/Shruti0999)
+- [@Richa Sinha](https://www.github.com/Richa710)
