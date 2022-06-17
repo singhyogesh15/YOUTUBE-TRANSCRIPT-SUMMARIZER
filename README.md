@@ -29,40 +29,44 @@ Please make sure to update tests as appropriate.
 
 ## Installation
 
-1. Clone the repository in your local machine:-
+1. Install Anaconda by using this guide:-
+
+https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/tree/main/Installing%20anaconda
+
+2. Clone the repository in your local machine:-
 ```
 git clone https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER.git
 ```
 
-2. To run the API, first set up a **Virtual Environment**. In order to do so, go into *youtube-transcript-summarizer-api* folder, open command prompt and paste the following command:-
+3. To run the API, first set up a **Virtual Environment**. In order to do so, go into *youtube-transcript-summarizer-api* folder, open command prompt and paste the following command:-
 ```
 python -m venv venv
 ```
 
-3. After successfully setting up the Virtual Environment, it's time to install the **Dependencies**. Use the following command:-  
+4. After successfully setting up the Virtual Environment, it's time to install the **Dependencies**. Use the following command:-  
 ```
 pip install -r requirements.txt
 ```
 
-4. Now it's time to run the **API**:-
+5. Now it's time to run the **API**:-
 ```
 python app.py
 ```
 
-5. Now the API is set up to provide the response. It's time to start with **frontend**. 
+6. Now the API is set up to provide the response. It's time to start with **frontend**. 
 
 
-6. Go into *youtube-transcript-summarizer-frontend* folder by opening a new terminal and paste the following command:-
+7. Go into *youtube-transcript-summarizer-frontend* folder by opening a new terminal and paste the following command:-
 ```
 cd youtube-transcript-summarizer-frontend
 ```
 
-7. Install all the required **node modules** with:-
+8. Install all the required **node modules** with:-
 ```
 npm install
 ```
 
-8. Now you are all set to run the frontend.
+9. Now you are all set to run the frontend.
 ```
 npm start
 ```
