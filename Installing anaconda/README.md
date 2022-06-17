@@ -5,4 +5,4 @@ Anaconda is a package manager, an environment manager, and Python distribution t
 Step 1:-
   Download ANACONDA.
   Go to the Anaconda Website "https://www.anaconda.com/products/distribution"
-  ![image1]()
+  ![image1](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/d2d5cccdfb9a182b9f6383e367a14ee56a110d65/Installing%20anaconda/image1.png)
