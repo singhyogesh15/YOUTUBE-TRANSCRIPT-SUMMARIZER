@@ -38,4 +38,5 @@ You can install DataSpell for anaconda if you like, but it is optional. Click on
 
 Step 9:-
 Click on Finish.
+
 ![image9](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/9af31afdcab6bb894cb15822d30c16c702eeb53e/Installing%20anaconda/image9.png)
