@@ -20,7 +20,7 @@ Please make sure to update tests as appropriate.
 
 ## Features
 
-- Multiple Langauage Support (Hindi,English,Gujarati,Braille)
+- Multiple Langauage Support (Hindi,English,Braille)
 - Runtime Text to Speech Conversion (English language Only)
 - Get Transcripts of videos of any length.
 - Get Summarization of video of any language.
