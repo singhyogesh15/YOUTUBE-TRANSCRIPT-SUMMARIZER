@@ -9,33 +9,33 @@ Go to the Anaconda Website "https://www.anaconda.com/products/distribution"
 
 Step 2:-
 When the screen below appears, click on Next.
-![image2](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/0b0adbb903487d96630354640620e6146d92ba3c/Installing%20anaconda/image2.png)
+![image2](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/9af31afdcab6bb894cb15822d30c16c702eeb53e/Installing%20anaconda/image2.png)
 
 Step 3:-
 Read the License Agreement and click on I Agree.
-![image3](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/0b0adbb903487d96630354640620e6146d92ba3c/Installing%20anaconda/image3.png)
+![image3](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/9af31afdcab6bb894cb15822d30c16c702eeb53e/Installing%20anaconda/image3.png)
 
 Step 4:-
 Choose either Just Me (recommended) or All Users.
-![image4](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/0b0adbb903487d96630354640620e6146d92ba3c/Installing%20anaconda/image4.png)
+![image4](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/9af31afdcab6bb894cb15822d30c16c702eeb53e/Installing%20anaconda/image4.png)
 
 Step 5:-
 Please make a note of your installation location
-![image5](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/0b0adbb903487d96630354640620e6146d92ba3c/Installing%20anaconda/image5.png)
+![image5](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/9af31afdcab6bb894cb15822d30c16c702eeb53e/Installing%20anaconda/image5.png)
 
 Step 6:-
 This is an important part of the installation process. The recommended approach is to not check the first box to add Anaconda to your path. This means you will have to use Anaconda Navigator or the Anaconda Command Prompt (located in the Start Menu under “Anaconda”) when you wish to use Anaconda (you can always add Anaconda to your PATH later if you don’t check the box). If you want to be able to use Anaconda in your command prompt, please use the alternative approach and check both the boxes. Then click on Install.
-![image6](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/0b0adbb903487d96630354640620e6146d92ba3c/Installing%20anaconda/image6.png)
+![image6](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/9af31afdcab6bb894cb15822d30c16c702eeb53e/Installing%20anaconda/image6.png)
 
 Step 7:-
 Wait for a while and let the installation get completed.
-![image7](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/0b0adbb903487d96630354640620e6146d92ba3c/Installing%20anaconda/image7.png)
+![image7](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/9af31afdcab6bb894cb15822d30c16c702eeb53e/Installing%20anaconda/image7.png)
 Then click on Next.
 
 Step 8:-
 You can install DataSpell for anaconda if you like, but it is optional. Click on Next.
-![image8](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/0b0adbb903487d96630354640620e6146d92ba3c/Installing%20anaconda/image8.png)
+![image8](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/9af31afdcab6bb894cb15822d30c16c702eeb53e/Installing%20anaconda/image8.png)
 
 Step 9:-
 Click on Finish.
-![image9](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/0b0adbb903487d96630354640620e6146d92ba3c/Installing%20anaconda/image9.png)
+![image9](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/9af31afdcab6bb894cb15822d30c16c702eeb53e/Installing%20anaconda/image9.png)
