@@ -26,7 +26,7 @@ Step 4:-
 Choose either Just Me (recommended) or All Users.
 
 
-![image4]()
+![image4](https://github.com/Zen-o-Droid/YOUTUBE-TRANSCRIPT-SUMMARIZER/blob/44e7666662671e2132b872f846e835845ed30fda/Installing%20anaconda/image4.png)
 
 Step 5:-
 Please make a note of your installation location
