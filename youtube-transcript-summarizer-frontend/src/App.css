@@ -9,26 +9,40 @@
 
 .App-header {
   background-color: #e0e5ec;
-  min-height: 100vh;
+  min-height: 95vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   font-size: calc(10px + 2vmin);
   color: black;
-  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(224,229,236,1) 100%);
-}
+  background-color: #74EBD5;
+background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+ }
 
+.footer{
+ 
+}
 .App-link {
   color: #61dafb;
 }
 
+.footer_div{
+ display: flex;
+ width: 100vw;
+ justify-content: center;
+ background-color: rgb(29, 29, 37);
+ color: white;
+ height: 5vh;
+ align-items: center;
+ font-family: cursive;
+}
 h1 {
   font-size: 21px;
   font-family: 'Overlock', cursive;
 }
 
 .line{
-  width: 90vw;
+  width: 40vw;
   border-bottom: 1px solid black;
   }
 
@@ -117,9 +131,9 @@ label {
 }
 
 .tab-list {
-  border-bottom: 2px solid black;
+
   width: 89vw;
-  margin-bottom: 12px;
+
   padding-left: 0;
 }
 
@@ -130,7 +144,17 @@ label {
   margin-bottom: -1px;
   padding: 5px 5px;
 }
+.center-line{
+  margin-top: -10px;
+  width: 45.5%;
+  margin-left:27.5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px; 
 
+  border: 1px solid black;
+}
 .tab-list-active {
   background-color: #282c34;
   color: white;
@@ -153,7 +177,7 @@ label {
 
 .tab-content {
   width: 82vw;
-  height: 260px;
+  height: 360px;
   font-size: 12px;
   text-align: justify;
   word-wrap: break-word;
@@ -165,7 +189,25 @@ label {
   border-radius: 8px;
   box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255, 255, 255, 0.5);
 }
-
+html {
+  --scrollbarBG: #CFD8DC;
+  --thumbBG: gray;
+}
+body::-webkit-scrollbar {
+  width: 11px;
+}
+body {
+  scrollbar-width: thin;
+  scrollbar-color: var(--thumbBG) var(--scrollbarBG);
+}
+body::-webkit-scrollbar-track {
+  background: var(--scrollbarBG);
+}
+body::-webkit-scrollbar-thumb {
+  background-color: var(--thumbBG) ;
+  border-radius: 6px;
+  border: 3px solid var(--scrollbarBG);
+}
 .footer {
   margin-bottom: 0;
   padding-top: 4px;

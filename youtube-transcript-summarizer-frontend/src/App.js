@@ -10,9 +10,11 @@ function App() {
 				<pre><div class="line"></div></pre>
 				<BackendAPI />
 			</header>
-			{/* <footer className="footer">
-				Made by - 19IT121 Venis Prajapati And 19IT114 Virag Patel
-			</footer> */}
+			<div className='footer_div'>
+		 <footer className="footer">
+			Made By- Richa, Shruti and Yogesh
+			</footer> 
+			</div>
 		</div>
 	);
 }
