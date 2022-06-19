@@ -83,13 +83,13 @@ label {
   padding: 4px;
   border: 2px solid #282c34;
   border-radius: 8px;
-  color: #282c34;
-  background-color: whitesmoke;
+  color: whitesmoke;
+  background-color: #282c34;
 }
 
 .submit-1:hover {
-  background-color: #282c34;
-  color: whitesmoke;
+  background-color: whitesmoke;
+  color: #282c34;
 }
 
 .submit-1:active {
@@ -107,7 +107,7 @@ label {
   border: 1px solid #282c34;
   border-radius: 8px;
   color: #282c34;
-  background-color: whitesmoke;
+  background-color: Whitesmoke;
 }
 
 .btn-1:active {
