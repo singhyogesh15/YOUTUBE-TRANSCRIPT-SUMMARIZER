@@ -3,7 +3,6 @@ import React from 'react';
 import Tabs from "./Tabs";
 import ET from "../transcripts/English.txt";
 import HT from "../transcripts/Hindi.txt";
-import GT from "../transcripts/Gujarati.txt";
 
 class BackendAPI extends React.Component {
 
@@ -43,7 +42,6 @@ class BackendAPI extends React.Component {
 							message: result.data.message,
 							englishTranscript: result.data.eng_summary,
 							hindiTranscript: result.data.hind_summary,
-							gujaratiTranscript: result.data.guj_summary,
 							originalTextLength: result.data.original_txt_length,
 							summarizedTextLength: result.data.final_summ_length,
 							brailleText: braille.toBraille(result.data.eng_summary)
@@ -85,7 +83,7 @@ class BackendAPI extends React.Component {
 
 	render() {
 
-		const { isLoaded, isLoading, message, englishTranscript, hindiTranscript, gujaratiTranscript, brailleText, originalTextLength, summarizedTextLength } = this.state;
+		const { isLoaded, isLoading, message, englishTranscript, hindiTranscript, brailleText, originalTextLength, summarizedTextLength } = this.state;
 
 		if (isLoading) {
 
@@ -110,11 +108,6 @@ class BackendAPI extends React.Component {
 						<div label="Hindi">
 							<div className="tab-content-1">
 								Hindi Summarized Text Will be Shown Here...
-							</div>
-						</div>
-						<div label="Gujarati">
-							<div className="tab-content-1">
-								Gujarati Summarized Text Will be Shown Here...
 							</div>
 						</div>
 						<div label="Braille">
@@ -164,16 +157,6 @@ class BackendAPI extends React.Component {
 									{hindiTranscript}
 								</div>
 							</div>
-							<div label="Gujarati">
-								<div className="tab-content">
-									<div>
-										<center>
-										<a href={GT} className="buttonDownload" download="Gujarati_Transcript.txt" type="button">Download</a>
-										</center>
-									</div>
-									{gujaratiTranscript}
-								</div>
-							</div>
 							<div label="Braille">
 								<div className="tab-content">
 									<div>
@@ -215,11 +198,6 @@ class BackendAPI extends React.Component {
 									Hindi Summarized Text Will be Shown Here...
 								</div>
 							</div>
-							<div label="Gujarati">
-								<div className="tab-content-1">
-									Gujarati Summarized Text Will be Shown Here...
-								</div>
-							</div>
 							<div label="Braille">
 								<div className="tab-content-1">
 									{braille.toBraille("Braille Summarized Text Will be Shown Here...")}
@@ -253,11 +231,6 @@ class BackendAPI extends React.Component {
 						<div label="Hindi">
 							<div className="tab-content-1">
 								Hindi Summarized Text Will be Shown Here...
-							</div>
-						</div>
-						<div label="Gujarati">
-							<div className="tab-content-1">
-								Gujarati Summarized Text Will be Shown Here...
 							</div>
 						</div>
 						<div label="Braille">
