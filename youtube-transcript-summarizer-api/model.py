@@ -85,19 +85,17 @@ def nlp_model(v_id):
                 result += ' ' + transcript[txt]['text']
                 s_t.append(text_summarizer(result))
 
-        english_summary = ' '.join(s_t) + '.'
+        english_summary = ' '.join(s_t) + "."
 
         final_summary_length = len(english_summary)
 
         hindi_translated_summary = g_translate(english_summary, 'hi')
 
-        gujarati_translated_summary = g_translate(english_summary, 'gu')
 
         # print(original_text_length, '-->', final_summary_length)
         # print(final_smy)
 
         makeTextFile("English", english_summary)
         makeTextFile("Hindi", hindi_translated_summary)
-        makeTextFile("Gujarati", gujarati_translated_summary)
 
-        return original_text_length, final_summary_length, english_summary, hindi_translated_summary, gujarati_translated_summary
+        return original_text_length, final_summary_length, english_summary, hindi_translated_summary
